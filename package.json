@@ -1,0 +1,7 @@
+{
+  "name": "secure-php-mvc",
+  "private": true,
+  "scripts": {
+    "start": "php -S localhost:8000 -t public"
+  }
+}
